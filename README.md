@@ -1,1 +1,1 @@
-# PyQt_project
+# PyQt_Study
